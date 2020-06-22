@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+        <item
+            android:id="@+id/menu_item_notes"
+            android:title="@string/menu_item_notes"
+            android:icon="@drawable/ic_notes"/>
+        <item
+            android:id="@+id/menu_item_checklists"
+            android:title="@string/menu_item_checklists"
+            android:icon="@drawable/ic_checklists"/>
+        <item
+            android:id="@+id/menu_item_calender"
+            android:title="@string/menu_item_calender"
+            android:icon="@drawable/ic_calender"/>
+        <item
+            android:id="@+id/menu_item_archive"
+            android:title="@string/menu_item_archive"
+            android:icon="@drawable/ic_archive"/>
+    <item
+        android:id="@+id/menu_item_settins"
+        android:title="@string/menu_item_settins"
+        android:icon="@drawable/ic_settings"/>
+</menu>
